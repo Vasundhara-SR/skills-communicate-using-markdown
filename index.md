@@ -8,4 +8,8 @@ int main()
   return 0;
 }
 ```
+- [ ] Turn on GitHub pages
+- [x] Outline my portfolio 
+- [x] Introduce myself to the world
+ 
 This is an introduction to using Markdown
