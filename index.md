@@ -1,2 +1,6 @@
 # Hello 
-This is an introduction to using headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+This is an introduction to using Markdown
